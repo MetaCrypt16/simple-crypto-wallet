@@ -1,0 +1,5 @@
+gradio
+ecdsa
+requests
+eth_hash[pycryptodome]
+eth_utils
